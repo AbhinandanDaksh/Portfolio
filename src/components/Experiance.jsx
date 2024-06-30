@@ -45,22 +45,22 @@ function Experiance() {
       name: "Node",
     },
     {
-      id: 6,
+      id: 7,
       logo: express,
       name: "Express",
     },
     {
-      id: 6,
+      id: 8,
       logo: vue,
       name: "VueJs",
     },
     {
-      id: 6,
+      id: 9,
       logo: react,
       name: "ReactJs",
     },
     {
-      id: 7,
+      id: 10,
       logo: Tailwind,
       name: "Tailwind",
     },
@@ -72,7 +72,7 @@ function Experiance() {
       name="Experiance"
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 bg-white pt-20"
     >
-      <div className=" h-[550px] bg-white">
+      <div className=" lg:h-[550px] sm:h-[200px] bg-white">
         <h1 className="text-3xl font-bold mb-10">Experiance</h1>
 
         <div className="grid grid-cols-2 md:grid-cols-5 gap-7 my-3">
