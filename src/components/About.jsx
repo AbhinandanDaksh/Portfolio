@@ -1,6 +1,7 @@
 import React from "react";
 import { FaAws } from "react-icons/fa";
 import { LiaSalesforce } from "react-icons/lia";
+import { PiCertificate } from "react-icons/pi";
 function About() {
   return (
     <div
@@ -81,6 +82,19 @@ function About() {
                 <LiaSalesforce className="text-2xl cursor-pointer" />
                 <span>
                   SalesForce (Ranger)
+                </span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://drive.google.com/file/d/1pARYyIn7aJe6pgqqct7JT4rihES50FVL/view?usp=sharing"
+                target="_blank"
+                className="flex items-center space-x-2"
+
+              >
+                <PiCertificate  className="text-2xl cursor-pointer" />
+                <span>
+                Virtual Internship Program - Web Development
                 </span>
               </a>
             </li>

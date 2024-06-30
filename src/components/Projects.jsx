@@ -49,7 +49,7 @@ function Projects() {
     >
       <div>
         <h1 className="text-3xl font-bold mb-5">Projects</h1>
-        <span className="underline font-semibold">Featured Projects</span>
+        {/* <span className="underline font-semibold">Featured Projects</span> */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-3 my-7">
           {cardItem.map(({ id, logo, name, link, description }) => (
             <div

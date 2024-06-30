@@ -9,8 +9,8 @@ function Footer() {
   return (
     <>
       <hr />
-      <footer className="py-12 text-gray-200">
-        <div className="max-w-screen-2xl container mx-auto px-4 md:px-20">
+      <footer className="py-12 text-gray-200 max-lg:h-auto">
+        <div className="max-w-screen-2xl max-h-screen-2sm container mx-auto px-4 md:px-20">
           <div className=" flex flex-col items-center justify-center">
             <div className="flex space-x-4">
               <FaFacebook size={24} />

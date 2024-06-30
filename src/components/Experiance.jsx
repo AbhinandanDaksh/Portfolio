@@ -70,10 +70,29 @@ function Experiance() {
   return (
     <div
       name="Experiance"
-      className="max-w-screen-2xl container mx-auto px-4 md:px-20 bg-white pt-20"
+      className="max-w-screen-2xl container mx-auto px-4 md:px-20 bg-white pt-14"
     >
-      <div className=" lg:h-[550px] sm:h-[200px] bg-white">
-        <h1 className="text-3xl font-bold mb-10">Experiance</h1>
+      <div className=" lg:h-[750px] sm:h-[200px] bg-white">
+        <h1 className="text-3xl font-bold mb-6">Experiance</h1>
+        <div>
+        <h1 className="text-black font-semibold text-2xl mb-2 ">
+          Internship 
+        </h1>
+        <p className="text-sm">ICT Academy</p>
+        <p className=" text-gray-950 mb-10" >
+        <ul className="list-disc ml-5">
+          <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-
+          priority assignments.</li>
+          <li>Gained valuable experience working within a specific industry, applying learned concepts directly into relevant
+          work situations.</li>
+        </ul>
+        </p>
+        </div>
+        <div>
+          <h1 className="text-black font-semibold text-2xl my-10">
+          Language ,Technology and Framework
+          </h1>
+        </div>
 
         <div className="grid grid-cols-2 md:grid-cols-5 gap-7 my-3">
           {cardItem.map(({ id, logo, name }) => (
