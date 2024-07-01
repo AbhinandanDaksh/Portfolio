@@ -12,7 +12,7 @@ function App() {
   return (
 
     <div>
-       <div className="bg-slate-950">
+       <div className="bg-slate-900">
         <Navbar />
         <Home />
         <About />
