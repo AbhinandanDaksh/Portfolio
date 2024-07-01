@@ -3,7 +3,7 @@ import React from "react";
 import pic from '../assest/abhinandan_Pic.jpg';
 
 import { FaLinkedin } from "react-icons/fa";
-import { FaWhatsapp } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa6";
 
@@ -28,7 +28,7 @@ function Home() {
               <h1>Hello, I'm a</h1>
               {/* <span >Developer</span> */}
               <ReactTyped
-                className="bg-gradient-to-b from-[#842a79] via-[#bc3db1] to-[#e88ae1] text-transparent bg-clip-text font-bold font-bold"
+                className="bg-gradient-to-b from-[#842a79] via-[#bc3db1] to-[#e88ae1] text-transparent bg-clip-text  font-bold"
                 strings={["Developer", "Programmer", "Coder"]}
                 typeSpeed={40}
                 backSpeed={50}
@@ -59,8 +59,8 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://wa.me/qr/WOFAEPYKTSNLI1" target="_blank">
-                      <FaWhatsapp className="text-2xl cursor-pointer" />
+                    <a href="https://github.com/AbhinandanDaksh" target="_blank">
+                    <FaGithub  className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
