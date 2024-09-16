@@ -15,7 +15,7 @@ function About() {
         </p>
         <br />
         <h1 className="text-orange-400 font-semibold text-xl">
-          Education & Training
+          Education
         </h1>
         <ul className="list-disc ml-5">
           <li className=" text-gray-200">
