@@ -90,7 +90,7 @@ function Experiance() {
         </div>
         <div>
           <h1 className="text-black font-semibold text-2xl my-10">
-          Language ,Technology and Framework
+          Language, Technology and Framework
           </h1>
         </div>
 
