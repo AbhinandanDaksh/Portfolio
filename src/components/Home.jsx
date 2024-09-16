@@ -64,7 +64,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="" target="_blank">
+                    <a href="abhinandandaksh@gmail.com" target="_blank">
                       <FaTelegram className="text-2xl cursor-pointer" />
                     </a>
                   </li>
