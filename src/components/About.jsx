@@ -29,7 +29,7 @@ function About() {
           <li className=" text-gray-200">
             I have completed my Bachelor's of Technology(Computer Science) from
             Dr. APJ Abdul Kalam Technical University in the year 2024 and scored
-            7.4 CGPA.
+            7.8 CGPA.
           </li>
         </ul>
         <br />
