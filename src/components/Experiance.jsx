@@ -10,7 +10,7 @@ import vue from "../assest/vue.jpg";
 import react from "../assest/reactjs.png";
 import Tailwind from "../assest/512px-Tailwind_CSS_Logo.svg.png";
 
-function Experiance() {
+function Experience() {
   const cardItem = [
     {
       id: 1,
@@ -112,4 +112,4 @@ function Experiance() {
   );
 }
 
-export default Experiance;
+export default Experience;
