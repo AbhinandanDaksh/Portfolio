@@ -69,7 +69,7 @@ function Experience() {
   ];
   return (
     <div
-      name="Experiance"
+      name="Experience"
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 bg-white pt-14"
     >
       <div className=" lg:h-[750px] sm:h-[200px] bg-white">
