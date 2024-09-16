@@ -73,7 +73,7 @@ function Experiance() {
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 bg-white pt-14"
     >
       <div className=" lg:h-[750px] sm:h-[200px] bg-white">
-        <h1 className="text-3xl font-bold mb-6">Experiance</h1>
+        <h1 className="text-3xl font-bold mb-6">Experience</h1>
         <div>
         <h1 className="text-black font-semibold text-2xl mb-2 ">
           Internship 
