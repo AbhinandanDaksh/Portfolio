@@ -35,7 +35,7 @@ function Navbar() {
             <img src={pic} className="h-12 w-12 rounded-full" alt="" />
             <h1 className="font-semibold text-xl cursor-pointer text-white">
               <Link to="Home">
-              Abhinanda<span className= "bg-gradient-to-b  from-[#842a79] via-[#bc3db1] to-[#e88ae1] text-2xl text-transparent bg-clip-text  font-bold">N</span>
+              <span className= "bg-gradient-to-b  from-[#842a79] via-[#bc3db1] to-[#e88ae1] text-2xl text-transparent bg-clip-text  font-bold">Abhinandan</span>
               <p className="text-sm">Full Stack Developer</p>
               </Link>
               
